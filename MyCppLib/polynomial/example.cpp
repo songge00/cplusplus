@@ -4,6 +4,7 @@ using namespace std;
 using namespace _201700800404;
 int main()
 {
+	cout<<"cwnnb"<<endl;
 	polynomial_N_index p1, p2;
 	p1 = { {"1/4",2},{"3",0} };  //p1^=(x^2)/4 + 3
 	cout << p1 << endl;        
